@@ -2,6 +2,8 @@
 
 Projet final du module **ISD2** : construire un modèle qui repère, dès la sortie d'un patient diabétique, ceux qui risquent d'être réadmis à l'hôpital **dans les 30 jours**.
 
+**[Consulter le notebook et ses résultats](projet_final.ipynb)**
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Random%20Forest-orange.svg)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-F37626.svg)
